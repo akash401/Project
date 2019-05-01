@@ -10,6 +10,8 @@ git clone https://github.com/akash401/Project.git
 
 php prime.php // executed default behavior N = 10
 
+We can also generate N prime Nos  by passing N values.
+
 Example Output: php prime.php
 
 
