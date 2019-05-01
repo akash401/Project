@@ -11,6 +11,8 @@ git clone https://github.com/akash401/Project.git
 php prime.php // executed default behavior N = 10
 
 Example Output: php prime.php
+
+
         2     3     5     7    11    13    17    19    23    29
 
      2     4     6    10    14    22    26    34    38    46    58
