@@ -6,7 +6,7 @@ Developed: PHP 5.6 / 7 Above.
 
 Install and Execute Default Behavior
 
-git clone 
+git clone https://github.com/akash401/Project.git
 
 php prime.php // executed default behavior N = 10
 
