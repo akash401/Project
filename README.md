@@ -1,5 +1,11 @@
 Program that prints out a multiplication table of the first 10 prime numbers. 
 
+About Function Used in Program:
+
+I am using get_primenos() function to generate prime nos with given length(N=10).
+get_value() function to calaculate the multiplication of prime no of given length.
+display() is used to display prime nos with multiplication value.
+
 Installation:
 
 Developed: PHP 5.6 / 7 Above.
